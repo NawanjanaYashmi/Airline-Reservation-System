@@ -1,0 +1,16 @@
+.contact{
+width: 60%;
+     height:80%;
+     padding:5px
+     margin: center;
+     left: 300px;
+     right: 100px;
+}
+
+.button{
+      background-color:#338BFF;
+}
+.image{
+float: right;
+list-style-type: none;
+}

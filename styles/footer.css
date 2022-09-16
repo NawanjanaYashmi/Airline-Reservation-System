@@ -1,0 +1,42 @@
+/* Footer */
+        section { 
+            
+            bottom: 0px;
+            display: block;
+            color: rgb(240, 248, 246);
+            text-align: center;
+            
+        }
+        .row
+        {
+            margin-top: 5%;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .footcol {
+            flex-basis: 31%;
+            border-right: rgb(133, 208, 221) 2px solid;
+            border-radius: rgb(133, 208, 221) 2px solid;
+        }
+
+        #p2 {
+            color: rgb(246, 252, 250);
+            font-size: 18px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-weight: 800;
+        }
+
+        #p3 {
+            color: rgb(246, 252, 250);
+            font-size: 17px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+
+        .footer
+        {
+            background: #5fecff;
+            background: -webkit-linear-gradient(to right, #056f99, #43bfdf);
+            background: linear-gradient(to right, #056f99, #43bfdf);
+            max-height: 100vh;
+        }

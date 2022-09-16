@@ -1,0 +1,124 @@
+.header{
+    width: 100%;
+    height: 38px;
+    background-color: #808080;
+}
+
+.contentMain{
+    display: flex;
+    flex-direction: row;
+}
+.contentMain{
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+.contentC{
+    padding-left: 20px;
+}
+
+#c1{
+    
+    width: 10%;
+    margin-right: 10px;
+}
+
+#c2{
+    
+    width: 90%;
+}
+
+.innerPbutton{
+    height: 30px;
+    width: 100px;
+    background-color: #636059;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 50px;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.contentInner{
+    margin-top: 70px;
+}
+.payButton{
+    margin-left: 50px;
+    margin-top: 30px;
+    
+}
+
+.label1{
+    margin-left: 50px;
+}
+label{
+    font-size: 20px;
+    font-weight: 200;
+    text-shadow: rgb(8, 8, 8);
+    
+}
+
+.inputField{
+    width: 50%;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+
+.pi{
+    width: 37px;
+    height:23px;
+    object-fit: cover;
+    margin-left: 20px;
+}
+
+span{
+    font-weight: 1000;
+    font-size: 20px;
+    color: blueviolet;
+}
+
+.payhere{
+    background-color: #14AAF5;
+    height: 30px;
+    width: 80px;
+    margin-left: 780px;
+	border-bottom-right-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius: 10px;
+    border-top-left-radius:10px;
+}
+
+.bar{
+    height: 30px;
+    width: 100%;
+    background-color: #808080;
+	
+	
+}
+
+
+.Exday{
+	margin-left: 50px;
+	
+}
+
+.CVC{
+	margin-left: 50px;
+}
+
+.save1{
+	margin-left: 50px;
+}
+
+.code{
+	margin-left: 50px;
+	color: #14AAF5;
+}
+
+.headerHr{
+    color:rgb(0, 0, 0);
+    
+    border: 1px solid;  
+ }
